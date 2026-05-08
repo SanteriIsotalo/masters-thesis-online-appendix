@@ -1,0 +1,78 @@
+Qt Group continued to execute its growth
+strategy in 2024. Although we fell short of
+our net sales growth targets due to the challenging market situation, our growth continued and our profitability was at an excellent
+level. I would like to take this opportunity to
+thank our personnel, developer community,
+partners and customers — it has again been
+a pleasure to work with you throughout the
+year and build first-class software for the
+global market.
+Transformation into a multi-product company continued
+Our transformation into a multi-product company continued
+as planned during the year. We are now even more involved
+in supporting our customers in increasing their productivity
+throughout the entire product development process, from user
+interface design and software development to quality assurance and testing.
+The number of smart devices with a graphical user interface
+continues to grow. An impressive and seamless user experience is a significant competitive advantage in the market. In
+October, we released a new product version of our software
+development platform, Qt 6.8. It includes numerous new features that significantly improve the developer experience and
+meet the development needs of demanding applications. As the number of software applications increases, so does the
+need for automatic software quality assurance and testing. We
+continued to develop our Qt Quality Assurance product portfolio, which is used in quality assurance and testing in product
+development activities, and we increased the sales of the portfolio — also for product development processes in which Qt’s
+development environment and tools are not used. Our solution
+delivers significant savings in time and resources for software
+developers and accelerates time-to-market.
+Investments in growth and information security
+Qt Group’s excellent profitability enables growth investments
+in areas of strategic importance. We continued to invest in
+sales growth, and we expanded our sales focus particularly
+to the quality assurance and testing business and customers
+outside the Qt ecosystem. We also allocated investments
+to research and product development in all of our product
+areas. Our products enable our customers to work even more
+smoothly throughout their entire organization.
+Our growth investments, especially in strengthening our sales
+and R&D organizations, were reflected in an increase in the
+number of employees. We had 869 employees at the end of
+2024. This represents a year-on-year increase of 12 percent.
+We also significantly increased our investments in information security in 2024. Our holistic approach covers all aspects
+of information security, by which we ensure the security of
+our operations, products and customers. We were awarded
+an ISO 27001:2022 certificate, audited and issued by KPMG,
+which verifies the security of Qt Group’s operational activities and information with the help of an information security
+management system (ISMS). We also started preparing for the
+European Union’s Cyber Resilience Act. We want to ensure that our products comply with the Act and contribute to ensuring
+that the products developed by our customers are safe and
+secure throughout their entire life cycle.
+More strong partners and users
+We announced significant new partnerships in 2024. Going
+forward, Infineon's graphics-enabled microcontrollers will be
+available with Qt’s graphics solution and developer toolkit for
+building graphical user interfaces.
+We started a collaboration with Qualcomm Technologies, Inc.
+on the development of advanced graphical user interfaces and
+software quality assurance for industrial IoT devices. The collaboration helps IoT manufacturers to significantly accelerate
+their devices’ time-to-market. We are now also part of LG Electronics' automotive content platform, and are partnering with
+LG Electronics to embed the Qt software framework for application development in LG’s webOS-based in-vehicle entertainment platform.
+We also want to contribute to promoting the growth of the
+number of Qt professionals. Qt’s cooperation with educational
+institutions and the Qt Academy e-learning platform, established in spring 2023, continued to grow in popularity. The number of licenses for students and teachers increased by
+63 percent, and the number of Qt Academy users grew by
+193 percent, which means tens of thousands of new users.
+We intensified our cooperation with educational institutions
+by launching a university network called University & Talent
+Network.
+Qt Group's growth continues
+Qt Group continued to grow in 2024. At comparable exchange
+rates, net sales increased by 15.7 percent year-on-year.
+Although net sales growth fell short of expectations, the
+operating margin (EBITA %) was excellent at 34.1 percent, or
+EUR 71.2 million. Sales of distribution licenses and consulting
+were lower than expected, but the steady growth of net sales
+accrued from developer licenses was a positive development.
+We are in a good position in the global embedded software
+markets, which hold significant potential. We are able to provide our customers with even higher value-added solutions,
+and we are involved in their entire product development process, from user interface design and software development
+to quality assurance and testing. 

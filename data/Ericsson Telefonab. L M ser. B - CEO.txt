@@ -1,0 +1,314 @@
+Unlocking future growth through
+network innovation
+We believe in a world where anything that can go wireless, will go wireless – and we are
+building our business around that vision. Ericsson’s aim is to extend the use of mobile
+connectivity beyond consumers and accelerate digitalization across industry and society.
+Our strategy harnesses the synergy of high-performing, programmable networks, together
+with developer innovation, to drive the next generation of digital services.
+During 2024, we continued to execute on
+our strategy; strengthening our leadership
+in mobile networks, expanding our efforts
+in enterprise and continuing to foster an
+integrity-led culture. Despite challenges
+in the market, we concluded 2024 with an
+adjusted gross margin1) of nearly 45% and
+adjusted EBITA1) of SEK 27.2 billion, corresponding to an EBITA margin1) of 11.0%.
+We also reinforced our market leading position. As expected, our customers continued to
+exercise caution with their investments, but
+towards the end of the year we saw stabilization of investments. In the fourth quarter
+sales returned to growth for the first time in
+8 quarters. Our solid financial performance
+underscores the competitiveness of our
+solutions, our commercial discipline and
+our focus on costs.
+Technology leadership remains our foundation – and here we will take every measure
+needed to keep our leading position. As a
+result of the positive actions we’ve taken during the year, including streamlining our business to maximize cost efficiency, we can
+continue to invest in technology leadership,
+so we are well positioned going forward.
+By extending connectivity beyond consumers, we aim to take the next step and
+accelerate digitalization across industry
+and society. This, we believe, will drive a
+new generation of digital services.
+Going forward, mobile networks will
+increasingly need to serve consumer and
+enterprise applications with different performance levels that are delivered at different
+times. For that reason, networks of the future
+will need to be high-performing and programmable, and their capabilities will need
+to be easily accessible.
+Ericsson is harnessing the synergy of
+high-performing, programmable networks,
+together with developer innovation to generate new growth. We are leveraging the capabilities of the network to expand into adjacent
+segments, such as enterprises, fixed wireless
+access, mission critical and defense. We are
+also opening up the network for developer
+innovation to drive new uses cases, leveraging features in the mobile network. This has
+the potential to accelerate innovation and
+growth in our industry.
+Mobile networks – the next wave
+Mobile networks are critical infrastructure
+that are key to solving many consumer needs.
+Despite this, the RAN market over the past
+20 years has experienced flat growth as communications service providers' returns remain
+decoupled from increasing network traffic.
+To address this challenge, we envision a new
+wave of digitalization that goes beyond
+consumers and current monetization models.
+Consequently, our strategy is focused on
+creating additional use cases and opening up
+the network for new monetization streams.
+Connectivity is a vital horizontal layer in
+the digital stack, with different performance
+demands. This is why we are investing in programmable networks that can be managed
+through software, allowing for flexible control 
+over how the network acts and what services
+can be launched. Differentiated connectivity
+is a key feature of these networks enabling
+communications service providers to provide
+distinct levels of service quality and prioritize
+various types of data traffic.
+In the future, the applications will order
+specific performance levels on-demand
+from the connectivity layer. For example, AI
+applications will require higher uplink performance while AR glasses will require ultra-low
+latency. This will be done through Application
+Programming Interfaces, or network APIs.
+So far, however, most of the network’s
+capabilities have been inaccessible to developers, hampering innovation. By opening
+it up through network APIs, developers can
+easily access network features such as speed,
+latency and location to innovate and create
+new use cases. This is a seismic shift that will
+unlock the value of 5G for the entire industry. With this shift, communications service
+providers with programmable networks will
+be able to generate new revenues from new
+applications, stimulating a network effect of
+additional investments into their networks.
+Leadership in mobile networks
+At the heart of our competitiveness is leadership in mobile networks. Our aim is to provide
+the industry’s best performing networks with
+the lowest total cost of ownership. Leadership
+in our industry is based on our investments in
+R&D and the world class talent we have in the
+company. Ericsson is consistently ranked as
+a leader in third-party assessments in areas
+such as performance and energy efficiency.
+And when we measure in-field performance,
+we consistently beat out our competitors.
+During 2024, we announced enhancements to our networks portfolio that further
+improves security and energy efficiency. We
+also introduced new Radio Access Network
+(RAN) software capabilities that significantly
+boost performance and programmability.
+The number of Fixed Wireless Access
+(FWA) connections continued to grow during
+2024. In fact, FWA data traffic is projected
+to grow by a factor of more than 4 to reach
+around 170 exabytes per month by the end
+of 2030. This will represent approximately
+36% of the total mobile network data traffic.
+In Cloud Software and Services, we
+evolved the portfolio with new AI-based
+solutions – including intent-based operations, Explainable AI, which provides insights
+into complex model decisions, and new
+service orchestration and assurance –
+enabling communications service providers
+to capture the full value of 5G and achieve
+operational efficiency. We also launched
+Ericsson Compact Packet Core to simplify
+communications service provider transition
+to cloud native.
+We’re seeing increased momentum
+around high-performing, programmable networks, which is very encouraging. The AT&T
+contract, which we announced last year,
+was the first proof point, and laid the initial
+groundwork. During 2024, we also signed
+a key deal with MasOrange in Spain to provide them with an open and programmable
+5G Standalone network, putting them at the
+forefront in Europe.
+Expansion into enterprise
+Our strategy focuses on creating new use
+cases and monetization opportunities for
+networks. Enterprises are a key target for us
+as they need flexibility and reliability from
+mobile networks but also have a need for
+high performing networks and differentiated
+connectivity. To address this, we're pursuing
+opportunities like private wireless networks
+for enterprises and network APIs to open new
+revenue streams, leveraging our strength in
+mobile technology.
+During 2024, we continued to transform
+our Enterprise Wireless Solutions business.
+We are refocusing the go-to-market organization to better deliver our solutions in the
+future and with a unified portfolio under the
+Ericsson brand, we now have a clear path to
+become the market leader in cellular-centric
+enterprise networking and security. At the
+end of the year, we also introduced a new
+Enterprise 5G portfolio including indoor
+neutral host, which saw good growth after
+its launch.
+We're also accelerating enterprise digitalization by developing an ecosystem for
+advanced network features through network
+APIs, which is one of the best opportunities
+for new monetization. Network APIs allow
+developers to integrate network resources
+into new applications. Vonage is crucial here,
+working with developers to monetize 5G.
+Recent partnerships – with Verizon, AT&T,
+KDDI and AWS – are powerful proof points
+that the ecosystem is taking shape.  
+To scale this market further, we announced
+a new joint venture with several of the world’s
+leading communications service providers to
+aggregate and sell network APIs. The new
+venture, named Aduna, aims to remove
+hurdles and accelerate the global growth of
+network APIs, giving developers easy access
+to advanced 5G network capabilities and
+driving enterprise digitalization through
+mobile connectivity.
+Leading with integrity
+At Ericsson, we believe in conducting our
+business ethically and with integrity, every
+day, in all the work that we do. During the
+year, we continued our efforts to embed our
+Ethics and Compliance program throughout
+the organization and ensure that all employees understand what is expected of them in
+order to comply with our Code of Business
+Ethics.
+In March 2024, the independent compliance Monitor appointed by the US Department of Justice (DOJ) in connection with
+Ericsson’s resolution of historical violations of
+the US Foreign Corrupt Practices Act, certified
+that our anti-corruption compliance program
+had satisfied requirements and is functioning
+effectively. In June 2024, we also announced
+the conclusion of the work and term of the
+independent compliance Monitor.
+While these are important steps on our
+integrity journey, it in no way marks the end
+point. We remain focused on enhancing the
+program and driving the right behaviors over
+the long term. We are committed to integrity and we have no tolerance for corruption,
+fraud or any other misconduct. We cannot
+lead our industry unless we conduct our
+business in the right way.
+Conducting our business with integrity is
+not just about following our Code of Business
+Ethics, but also how we act. For example, we
+make fact-based decisions and are willing
+to take difficult discussions. An integrity-led
+culture is a competitive advantage for us. This
+also includes making Ericsson a world-class
+workplace so we can attract the best talent
+and be competitive in the future. All our talent
+decisions are made regardless of background,
+gender, nationality, or religion, and of course
+are merit-based.
+Another focus area for us is "Target Zero",
+which is about having zero fatal accidents
+and lost workdays by 2025. A lot of work has
+been done to drive a safety-first mindset
+across the organization and the outcome
+in 2024 was a significant improvement.
+However, nothing less than zero can ever be
+good enough so here, we need to continue
+our efforts. Market developments and business
+performance
+While the mobile infrastructure market during
+2024 remained challenging, we saw North
+America returning to growth and positive
+trends in our business performance. In 2024,
+group organic net sales1) decreased by –5%
+YoY to SEK 247.9 billion, adjusted gross margin2) improved to 44.9% and free cash flow
+before M&A increased to SEK 40.0 billion.
+In Networks, sales declined overall but we
+saw strong development in North America.
+Since 2022, Networks reported net sales have
+fallen by –18%. The more favorable market
+mix together with continued cost-reduction
+initiatives and improved supply chain effectiveness, enabled us to deliver an improved
+adjusted gross margin2) of 47.2% and an
+adjusted EBITA margin2) of 17.5% during
+2024.
+In Cloud Software and Services, we continued to execute on our strategy to turn the
+business around and increase profitability.
+During the year, we saw continued improvements with higher adjusted gross margin2),
+benefitting from enhanced delivery performance and cost actions, and an adjusted
+EBITA margin2) of 3.2% for the year, reflecting our strategic focus on commercial discipline and acceleration of automation.
+In 2024, the Enterprise segment experienced a –2% organic sales1) decline. Enterprise Wireless Solutions reported sales grew
+by 17%, due to strong demand for private 5G
+and neutral host solutions, while reported
+sales in the Global Communications Platform
+fell by –10% as we strategically reduced
+activities in certain countries to focus on more
+profitable market segments. Adjusted gross
+margin2) increased due to the actions we
+have taken, but adjusted EBITA2) declined
+due to increased investments to improve
+operational effectiveness in Global Communications Platform.
+While our focus on driving the market for
+network APIs continues, the additional priority
+is to turn around the existing business of Vonage. Our plan is to focus the business on higher
+margin products, withdraw from low-margin
+products and geographies and improve Opex.
+We expect continued headwind in sales as we
+withdraw from certain markets with a stabilization towards the end of 2025.
+While there are areas we need to improve,
+the overall progress underscores the strength
+of our business and the actions we have
+taken during the year. This includes improved
+utilization of the supply chain, cost-out activities and momentum in our patent portfolio.
+We also saw IPR licensing revenue increase
+to SEK 14 billion in 2024, with further growth
+opportunities in additional licensing areas
+such as automotive and IoT.
+The geopolitical environment is becoming
+increasingly uncertain, including talks about
+raised tariffs between some of the world’s
+largest economies. If tariffs are implemented,
+they will impact our profitability, but the
+effect cannot be quantified or understood yet
+as we don’t know what tariffs will come or
+how they will be implemented. We’re taking
+actions to be as prepared as possible by continuing to build resilience in our supply chain.
+This includes investments in R&D and how
+and where we design and manufacture our
+products, such as building in design options
+and availability of multiple supply chains,
+to mitigate potential disruptions.
+We will continue to be laser focused on
+what we can control. Dedicated investments
+in R&D and continued operational excellence
+will further strengthen Ericsson’s technology
+leadership and financial performance, irrespective of market conditions.
+Looking ahead
+I am an optimist, and I believe that the next
+wave of digitalization will usher in a new era
+of growth and prosperity for both industries
+and society. Building out critical digital infrastructure will be essential for generating value
+from new technologies such as AI.
+At the heart of our strategy are highperforming, programmable networks that
+deliver differentiated connectivity. Our
+leadership in mobile networks, combined
+with our expansion into enterprises and
+cultural transformation, is the core of this
+strategy, allowing us to expand the market
+for connectivity and create new avenues for
+monetization.
+By opening up networks through APIs,
+we empower developers to innovate, crafting
+enhanced applications that enable communications service providers to differentiate their
+offerings and evolve business models beyond
+traditional subscriptions. This approach
+not only drives new service growth but also
+stimulates further investment in network
+infrastructure, resulting in growth for both
+Ericsson and the broader telecom industry.
+I want to extend my heartfelt thanks to
+our dedicated team. Their hard work and
+perseverance have made our achievements
+over the past year possible. Together, we are
+poised to lead the next wave of network innovation, driving a future of unprecedented
+connectivity and opportunity

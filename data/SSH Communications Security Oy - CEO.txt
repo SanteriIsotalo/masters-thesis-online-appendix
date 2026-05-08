@@ -1,0 +1,75 @@
+Dear valued customers, shareholders,
+partners, and colleagues,
+Reflecting on the past year, I am delighted to share
+the significant milestones of SSH Communications
+Security Corporation’s journey in 2024. It was a
+year of solid growth, improved profitability, and
+new partnerships. We introduced innovative
+security solutions and product upgrades, setting
+the stage for even greater achievements in
+2025. This year, we are inspired to build on this
+momentum - delivering more, better, and faster.
+We also proudly celebrate SSH’s 30th
+anniversary in 2025. Founded by Tatu Ylönen,
+SSH Communications Security pioneered
+cybersecurity with the invention of Secure Shell
+(SSH) which established the foundation for
+secure internet communication, enabling safe
+connections for networks, systems, and humans
+worldwide.
+The year 2024 marked a return to faster growth for
+SSH Communications Security, driven by strong
+performance in EMEA and APAC markets and
+a renewed focus on partner development and
+activation. A strategic reorganization enabled
+us to improve profitability while sharpening
+our focus on key priorities. Our PrivX Zero Trust
+Suite took center stage, launching as part of the
+Microsoft Entra ecosystem and establishing itself
+as a cornerstone and growth opportunity of our
+portfolio. With enhanced integration capabilities,
+such as the connection between PrivX and NQX,
+and tailored features for OT and MSP use cases,
+PrivX achieved significant traction, particularly in
+Japan.
+We secured a €1.8 million multi-year order for
+cryptographic solutions, reinforcing the trust and
+value we provide to our customers. As a result, an
+introduction of the FQX file encryption product is
+taking place, which is set for commercialization
+in 2025.
+We made inroads into expanding our business
+with our strong customer base and won several
+new customers in all regions. From a Nordic
+energy company to an Asian gaming company
+to a North American digital payments company.
+Peer recommendations for PrivX rose to 94% and
+customer satisfaction for support got rated 6,7
+out of 7.
+To further highlight our commitment to excellence,
+we achieved ISO/IEC 27001:2022 certification, a
+testament to our strong dedication to security and
+trust. We were approved as supplier for NATO’s
+NCI Agency. NQX network security solution
+receiverd Confidential TL III security rating from
+NCSA Finland. We started the approval processes
+for our solutions for EU and NATO Restricted
+-level security.
+Looking ahead to 2025, our focus will be on
+enhancing profitability and accelerating growth
+by increasing awareness and demand for our
+products. We aim to expand our presence in
+the USA, with particular attention to product
+marketing and Federal (FIPS) opportunities.
+We push forward for the adoption of our Zero
+Trust solutions across OT, critical infrastructure,
+and defense sectors. Additionally, we are
+preparing for the commercialization of SalaX
+Secure Messaging, which we believe will
+resonate strongly with sectors such as defense,
+government, healthcare, and commercial
+enterprises.
+As we continue our journey, our commitment
+to innovation, operational excellence,
+trustworthiness and customer satisfaction will
+remain at the heart of everything we do.

@@ -1,0 +1,50 @@
+The year 2024 was a time of significant strategic reforms for Lemonsoft. We successfully completed two acquisitions, initiated the
+transition to the Azure cloud platform, and achieved ISO 27001
+certification. These actions strengthen our position in the market
+and create a foundation for future growth.
+Business environment developments
+The general market situation in our key industries -manufacturing
+and wholesale- showed signs of cautious recovery toward the end
+of the year. After more than a year and a half of economic downturn, the growth trend is gradually shifting to a positive trajectory,
+although strong growth has yet to materialize. Our customers’ financial situations remain stable overall, but as the weaker economic
+cycle persists, payment delays have increased in the latter part of
+the year.
+For new sales, the end of the year was promising. In particular,
+the sales of industrial manufacturing and wholesale ERP solutions
+reached their highest level of the year. Additionally, we have invested in cross-selling within our extensive product portfolio. More
+unified sales work has resulted in more active joint sales, where
+customers choose to implement multiple solutions from our range.
+Revenue churn, which was slightly elevated at the beginning of the
+year, decreased steadily toward the end of the year and stood at
+4.4% for the entire year compared to 5.4% in 2023. Net Revenue
+Retention (NRR) from the existing customer base was 97.3% for
+the entire year (101.3% in 2023), reflecting the challenging business
+environment faced by our customer companies.
+Technological investments and
+information security
+Technological transitions progressed strongly in the latter part of the
+year. The Azure migration remains crucial for the company’s future,
+with implementation continuing into the spring. In addition to technological advancement, this transition aims to generate substantial
+long-term cost savings. Furthermore, we successfully completed the
+transition to a new e-invoicing operator as planned, focusing now on
+improving the overall service quality for our customers.
+In recent years, we have made significant investments in information security, data protection, and risk management. Before the end
+of the year, Lemonsoft’s Information Security Management System
+was awarded the ISO/IEC 27001 certification. This system ensures
+the security and continuous availability of our services while protecting the data of our customers, partners, and employees. The move
+to the Azure platform further strengthens these security objectives.
+Looking to the future
+Lemonsoft’s management team and organization underwent
+significant changes in 2024. Following the CEO transition, the
+management team’s composition was updated, particularly in the
+roles of Chief Product Officer and Chief Commercial Officer. The
+Chief Commercial Officer, responsible for sales and marketing,
+aims to improve the sales process and better highlight the value
+of our extensive product portfolio to customers. The Chief Product
+Officer is responsible for accelerating the launch of new products
+and enhancing the quality and speed of product development. At
+the same time, other essential organizational changes have been
+implemented to elevate our performance to a new level.
+The year 2024 was, in many ways, a time of transformation for the
+entire Lemonsoft Group. In 2025, our goal is to return to a path of
+profitable growth, supported by these strategic initiatives.

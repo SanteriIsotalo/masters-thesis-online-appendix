@@ -1,0 +1,61 @@
+“The last quarter of 2024 was subdued for Vincit, both in terms of
+revenue and protability development, similar to the entire scal year.
+Sales cycles have remained long throughout the year as customers
+carefully consider initiating new projects, even relatively small ones.
+The market environment, especially for custom software development,
+was challenging throughout the year.
+In the Nordics, demand for our service oering was highest for data
+and AI solutions, as well as SAP S/4HANA transformation projects.
+Among customer deliveries in Finland, I would particularly like to
+highlight the Edilex AI tool, developed by Vincit and Edilex, which is
+designed for legal information retrieval. The tool is currently being
+tested by law rms, and the commercial version will be released
+during 2025. After the review period, we also announced an extensive
+cooperation agreement with Schetelig Group, a wholesaler catering
+to garden professionals. We are helping the Group’s companies
+modernize their core business processes with a cloud-based,
+comprehensive SAP solution. These projects are examples of our
+strategic goal to apply our expertise more deeply to our customers’
+business-critical challenges.
+In the United States, the operating environment has remained
+challenging for Vincit, and the past quarter was again unprotable.
+We continue to work on building a new market position as a digital
+commerce partner and adjusting the cost base to the current size of
+the US business. We are focused on winning new customers in the
+retail, media, and manufacturing industries by leveraging our delivery
+capabilities from Europe.
+During the year, we have signicantly streamlined our cost structure
+and increased cost flexibility in our operations. Thanks to cost-cutting
+measures related to oce premises and other operating costs, we
+achieved annual savings of EUR 2 million. In addition, we concluded
+change negotiations in November concerning temporary layos in
+Finland. The layos apply to employees in billable roles whose
+customer invoicing has been low for an extended period. We will
+continue to evaluate the necessary measures and need for temporary
+layos until the end of June 2025. At the end of the year, Vincit had 30
+employees on temporary layo in Finland and the US.
+In December, we announced that we had become part of a
+professional cyberattack. The multi-stage attack originated from
+stolen VPN credentials from a Vincit employee's personal computer,
+which allowed the criminals to penetrate a closed network of a Vincit
+customer. The stolen credentials did not directly allow access to customer systems or personal data managed by customers, but the
+criminals were able to exploit vulnerabilities independent of Vincit in
+the next stage of the attack. We take this series of events extremely
+seriously and have conducted a thorough investigation in cooperation
+with cybersecurity professionals and authorities. We will accelerate
+the schedule of ongoing cybersecurity projects and further increase
+investments in cybersecurity development and risk management
+together with our customers. The costs related to the cybersecurity
+attack burdened the result of the nal quarter.
+The year 2024 ended with the claried strategy and updated nancial
+targets published in December. Vincit aims to be the most trusted
+digital business partner for its customers, combining leading
+technology platforms and tailored solutions. The results of a customer
+satisfaction survey conducted in December (NPS 58) provide a good
+starting point for our goal. As a result of the strategy work, we started
+2025 with a new organizational structure, which strengthens the
+independence of our business areas. This enables clearer prot
+responsibility, closer customer collaboration and brings experts closer
+to the business. Although the operating environment remains
+challenging at the turn of the year, we are entering the new year
+committed to earning our customers' trust every single day.”

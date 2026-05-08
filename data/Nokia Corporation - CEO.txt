@@ -1,0 +1,109 @@
+Repositioning
+for growth
+This was a year of good strategic execution in a
+volatile market to achieve our full-year guidance
+while pursuing growth opportunities in our focus
+areas of data centers, private wireless and industrial
+edge and defense. Challenging market conditions in the first half of 2024 led to
+our full-year net sales declining, but we delivered a strong
+finish to the year with improving net sales and excellent
+profitability to achieve a full-year comparable operating
+profit(1) of EUR 2.6 billion, at the mid-point of our guidance
+of EUR 2.3 to 2.9 billion.
+We delivered a strong cash performance throughout 2024,
+ending with full-year free cash flow(1) of EUR 2.0 billion.
+This means we have a strong balance sheet supporting
+our business, with net cash and interest-bearing financial
+investments(1) of EUR 4.9 billion at the end of the year,
+even after returning EUR 1.4 billion to shareholders through
+dividends and share buybacks. As a result, the Board is
+proposing an increase in the dividend to EUR 0.14 per share
+in respect of the financial year 2024.
+Gaining share and expanding into new markets
+Thanks to improving market trends and the determination
+of the Nokia team, we ended the year with excellent deal
+momentum, gaining share in many key markets and winning
+entirely new communication service provider (CSP) and
+enterprise customers.
+For instance, our Network Infrastructure business, which is
+a market leader in fixed, IP and optical networks, secured a
+strategic deal with AT&T to deploy next-generation fiber
+broadband in the US. Network Infrastructure also continued
+its expansion in the data center market, winning significant
+deals including Microsoft, CoreWeave and Nscale, as well as
+announcing new go-to-market partnerships with Kyndryl
+and Lenovo.
+Over the course of 2024, our Mobile Networks business won
+12 new CSP and 9 new enterprise customers, as well as gained
+share with 10 existing CSP customers. As a result, Mobile
+Networks added 18 000 base station sites, on a net basis,
+to build share in a challenging market with notable highlights,
+including a large-scale commercial O-RAN rollout with Deutsche
+Telekom in Germany. Mobile Networks also expanded its
+AirScale portfolio with new market-leading, energy-efficient
+Massive MIMO radios to support mobile traffic growth and
+accelerate mass 5G rollouts.
+Cloud and Network Services continued to rebalance its
+portfolio and strengthen its technology leadership, ending the
+year with 123 5G Standalone Core customers, the highest in
+the industry. By the end of 2024 we also had a market-leading
+850 private wireless customers.
+Nokia Technologies filed a record-breaking 3 000 patents
+in 2024 and passed the milestone of 7 000 patent families
+essential to 5G. Our patent-licensing business successfully
+concluded its smartphone renewal cycle and made further
+progress in its growth areas of automotive, consumer
+electronics, Internet of Things (IoT) and multimedia.
+Strategic moves to accelerate growth
+Nokia continued to lead the telecom industry’s transition to AIRAN, Cloud RAN and cloud-native core networks, helping CSPs
+cloudify, automate and monetize their networks to capitalize
+on the opportunities that AI and cloud are bringing.
+We believe that programmable networks, through application
+programming interfaces (APIs), are central to unlocking
+monetization opportunities for our customers and partners.
+As well as continuing to expand the reach of our Network as
+Code platform, we acquired US tech firm Rapid’s technology
+and R&D unit this year. This acquisition gives us the world’s
+largest API hub, used by thousands of developers globally,
+and strengthens our R&D capabilities. It also meant that by
+the end of 2024, we had 48 network API partners, including
+Orange, Telefonica and Google.
+We also undertook significant strategic moves to accelerate
+progress in our new focus areas of data centers, private
+wireless and industrial edge, and defense.
+For instance, the sale of the Submarine Networks business and
+the acquisition of optical networking supplier Infinera have
+reshaped our Network Infrastructure business around three
+leading pillars, have strengthened our optical position,
+particularly in the US, and will help to accelerate our progress
+in the data center market. To support that ambition, at the
+fourth quarter results, we announced our intention to invest up
+to an additional EUR 100 million in annual operating expenses
+in data center IP networking, with a view to driving incremental
+net sales of EUR 1 billion by 2028.
+Mobile Networks’ acquisition of tactical communications
+specialist Fenix Group broadens our defense portfolio, and the
+launch of Nokia 5G Banshee Flex Radio at the end of the year
+is a sign of things to come as we start to apply our expertise
+in fast, secure and reliable 5G connectivity to a range of
+defense scenarios.
+Looking ahead
+Given the market volatility in 2024, our performance
+demonstrated Nokia’s responsiveness and capacity to execute
+in all market conditions. I am grateful to the Nokia team for
+their commitment, hard work and drive in delivering on our
+guidance and creating a strong foundation for growth this year.
+This will be my last annual report as President and CEO of
+Nokia. In February 2025 we announced a leadership transition,
+with Justin Hotard becoming the next President and CEO
+of Nokia on 1 April. I had earlier indicated to the Board
+that I wanted to move on from executive roles when the
+repositioning of the business was at a more advanced stage,
+and when the right successor had been identified. With both
+of those conditions met, I decided it is the right time to
+step down.
+I’m proud of the work we have done in re-establishing Nokia’s
+competitiveness and technology leadership and in positioning
+the company for growth.
+It has been a privilege to lead Nokia and to have worked with
+one of the best teams in the industry.
